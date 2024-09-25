@@ -1,8 +1,8 @@
                                                                 🎶 Spotify Clone 🎶
 
-This project is a full-stack Spotify clone that replicates the core functionality and design of the popular music streaming platform.
+This project is a  Spotify clone that replicates the core functionality and design of the popular music streaming platform.
 
-🌐 Built using modern web technologies such as HTML5, CSS3, and JavaScript for the front-end, and a robust backend powered by Node.js and Express, the app enables users to:
+🌐 Built using modern web technologies such as HTML5, CSS3, and JavaScript for the front-end,and the app enables users to:
 
 🎧 Browse songs
 
@@ -14,9 +14,6 @@ This project is a full-stack Spotify clone that replicates the core functionalit
 
 Front-end: HTML5, CSS3, JavaScript, Bootstrap
 
-Back-end: Node.js, Express
-
-Authentication: JWT (JSON Web Token) for secure user authentication
 
 API Integration: Spotify API or third-party APIs for real-time song data
 
